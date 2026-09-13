@@ -1,0 +1,6 @@
+{
+  "name": "Vertex Dashboard",
+  "description": "A production-quality SaaS admin dashboard with Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
